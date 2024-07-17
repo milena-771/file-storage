@@ -37,3 +37,4 @@ The application interacts with an other mail API to send access keys for authent
   - Size of the largest uploaded file
   - Most frequently uploaded file type
 
+Please check out the [wiki documentation](https://github.com/milena-771/file-storage-api/wiki), to see some design data models.
