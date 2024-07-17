@@ -9,7 +9,7 @@ The application interacts with an other mail API to send access keys for authent
 
 ## Implemented Services
 
-- create a customer (
+- create a customer (customer number from 10000, firstname, lastname, email, marketing consent)
 - create a subscription (name, subscription code, description, isFree, duration, maximum stored files)
 - create a contact role
 - generate API Key (generate and store a unique API key for each customer)
